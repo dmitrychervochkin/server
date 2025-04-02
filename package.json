@@ -2,7 +2,7 @@
   "name": "my-json-server",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --host 0.0.0.0 --watch db.json --port $PORT"
+    "start": "json-server --host 0.0.0.0 --watch db.json --port $PORT --no-cors"
   },
   "dependencies": {
     "json-server": "^0.17.0"
