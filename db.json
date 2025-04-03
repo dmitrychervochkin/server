@@ -24,5 +24,10 @@
       "url": "https://sky.pro/wiki/_next/static/media/money-guy.e801c0e7.webp",
       "likes": 16
     }
-  ]
+  ],
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type, Authorization"
+  }
 }
